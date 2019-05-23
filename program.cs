@@ -8,5 +8,9 @@ namespace program
     {
       Console.writeline("Hello world!");
     }
+	public int Hello2()
+	{
+		console.writeline("Hi!");
+	}
   }
 }
